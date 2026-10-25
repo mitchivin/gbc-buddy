@@ -5,7 +5,7 @@ Your buddies are your moves. Carry one to borrow its power, throw it across a ga
 **[Play Demo](https://mitchivin.github.io/game-boy-color/) · [Download for Windows](https://github.com/mitchivin/game-boy-color/releases/latest)** · Free to play. Works on desktop and phone.
 
 <p align="center">
-  <a href="https://mitchivin.github.io/game-boy-color/"><img src="assets/buddy-game-boy-color.webp" width="640" alt="BUDDY running on the Game Boy Color: the title screen, the island map and Buddy Grove"></a>
+  <a href="https://mitchivin.github.io/game-boy-color/"><img src="assets/buddy-game-boy-color.webp" alt="BUDDY running on the Game Boy Color: the title screen, the island map and Buddy Grove"></a>
 </p>
 
 ## The game
@@ -25,7 +25,7 @@ The campaign runs from an island map through Meadow Path, Windmill Hills, Tidepo
 ## Screenshots
 
 <p align="center">
-  <img src="assets/buddy-worlds.png" width="656" alt="Four BUDDY stages: swimming with Bubbo in Tidepools, carrying Digby in Root Cellar, carrying Ember on Ember Ridge, and the fight with The Collector">
+  <img src="assets/buddy-worlds.png" alt="Four BUDDY stages: swimming with Bubbo in Tidepools, carrying Digby in Root Cellar, carrying Ember on Ember Ridge, and the fight with The Collector">
 </p>
 <p align="center">
   <sub>Tidepools with Bubbo, Root Cellar with Digby, Ember Ridge with Ember, and The Collector's keep</sub>
