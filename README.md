@@ -2,7 +2,7 @@
 
 A Game Boy Color platformer about carrying, throwing and warping to creature buddies.
 
-**[Play it in your browser](https://mitchivin.github.io/game-boy-color/)**
+**[Play Demo](https://mitchivin.github.io/game-boy-color/)**
 
 <p align="center">
   <a href="https://mitchivin.github.io/game-boy-color/"><img src="assets/buddy-game-boy-color.webp" width="640" alt="BUDDY running on the Game Boy Color: the title screen, the island map and Buddy Grove"></a>
