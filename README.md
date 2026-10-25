@@ -2,7 +2,9 @@
 
 A platformer about carrying, throwing and warping to creature buddies.
 
-**[Play Demo](https://mitchivin.github.io/game-boy-color/)**
+**[Play Demo](https://mitchivin.github.io/game-boy-color/) · [Download for Windows](https://github.com/mitchivin/game-boy-color/releases/latest)**
+
+Free to play. Works on desktop and phone.
 
 <p align="center">
   <a href="https://mitchivin.github.io/game-boy-color/"><img src="assets/buddy-game-boy-color.webp" width="640" alt="BUDDY running on the Game Boy Color: the title screen, the island map and Buddy Grove"></a>
@@ -45,13 +47,9 @@ The CONTROLS page on the title screen shows all of this with pictures.
 
 ## Play
 
-BUDDY comes with the [Game Boy Color browser emulator and Windows desktop widget](https://github.com/mitchivin/game-boy-color). Open the [live demo](https://mitchivin.github.io/game-boy-color/) and start BUDDY.
+BUDDY comes with the [Game Boy Color browser emulator and Windows desktop widget](https://github.com/mitchivin/game-boy-color). Open the [live demo](https://mitchivin.github.io/game-boy-color/) and start BUDDY, or install the widget from [Releases](https://github.com/mitchivin/game-boy-color/releases/latest).
 
 This repository contains public product information only. The game's source is not published here.
-
-## Credits
-
-A game by Mitch Ivin. Music and sound effects are original. The hero's motion is based on Pink Man from [Pixel Adventure](https://pixelfrog-assets.itch.io/pixel-adventure-1) by Pixel Frog (CC0).
 
 ## Related
 
@@ -59,4 +57,14 @@ A game by Mitch Ivin. Music and sound effects are original. The hero's motion is
 - [Game Boy](https://github.com/mitchivin/game-boy)
 - [DoodleDev](https://github.com/mitchivin/doodledev)
 - [iPod Classic](https://github.com/mitchivin/ipod-classic)
+- [iPod Original](https://github.com/mitchivin/ipod-original)
+- [OP-XY](https://github.com/mitchivin/te-opxy)
+- [OP-1 Field](https://github.com/mitchivin/te-op1-field)
+- [Frostbolt Player](https://github.com/mitchivin/frostbolt-player)
 - [MitchIvin XP](https://mitchivin.com/)
+
+## About
+
+A game by [Mitch Ivin](https://mitchivin.com/). Music and sound effects are original. The hero's motion is based on Pink Man from [Pixel Adventure](https://pixelfrog-assets.itch.io/pixel-adventure-1) by Pixel Frog (CC0).
+
+BUDDY is an independent creative project and is not affiliated with Nintendo.
