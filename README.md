@@ -45,7 +45,7 @@ The CONTROLS page on the title screen shows all of this with pictures.
 
 ## Play
 
-BUDDY runs in the [Game Boy Color](https://github.com/mitchivin/game-boy-color) browser emulator. Open the [live demo](https://mitchivin.github.io/game-boy-color/) and start BUDDY.
+Open the [live demo](https://mitchivin.github.io/game-boy-color/) and start BUDDY. It plays in the browser on desktop and phone.
 
 This repository contains public product information only. The game's source is not published here.
 
