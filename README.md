@@ -2,7 +2,7 @@
 
 Your buddies are your moves. Carry one to borrow its power, throw it across a gap, then warp to wherever it landed.
 
-**[Play Demo](https://mitchivin.github.io/game-boy-color/) · [Download for Windows](https://github.com/mitchivin/game-boy-color/releases/latest)** · Free to play. Works on desktop and phone.
+**[Play Demo](https://mitchivin.github.io/game-boy-color/)** · Free to play. Works on desktop and phone.
 
 <p align="center">
   <a href="https://mitchivin.github.io/game-boy-color/"><img src="assets/buddy-game-boy-color.webp" alt="BUDDY running on the Game Boy Color: the title screen, the island map and Buddy Grove"></a>
