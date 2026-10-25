@@ -4,7 +4,9 @@ A Game Boy Color platformer about carrying, throwing and warping to creature bud
 
 **[Play it in your browser](https://mitchivin.github.io/game-boy-color/)**
 
-![BUDDY gameplay: a hooded cat carries Hopper the frog across Meadow Path](assets/buddy-gameplay.gif)
+<p align="center">
+  <img src="assets/buddy-game-boy-color.webp" width="460" alt="BUDDY running on the Game Boy Color: the title screen, the island map and Buddy Grove">
+</p>
 
 ## The game
 
@@ -22,17 +24,11 @@ The campaign runs from an island map through Meadow Path, Windmill Hills, Tidepo
 
 ## Screenshots
 
-<p>
-  <img src="assets/screenshots/01-title.png" width="320" alt="BUDDY title screen with the hero and all five buddies">
-  <img src="assets/screenshots/02-island-map.png" width="320" alt="The island map">
+<p align="center">
+  <img src="assets/buddy-worlds.png" width="656" alt="Four BUDDY stages: swimming with Bubbo in Tidepools, carrying Digby in Root Cellar, carrying Ember on Ember Ridge, and the fight with The Collector">
 </p>
-<p>
-  <img src="assets/screenshots/03-meadow-path-treasure.png" width="320" alt="Meadow Path: treasure chest on a wooden tower">
-  <img src="assets/screenshots/04-meadow-path-hopper.png" width="320" alt="Meadow Path: carrying Hopper across floating islands">
-</p>
-<p>
-  <img src="assets/screenshots/05-grove-hopper.png" width="320" alt="Buddy Grove: Hopper on the hero's head, a treasure chest above">
-  <img src="assets/screenshots/06-grove-glidey.png" width="320" alt="Buddy Grove: carrying Glidey the bat past a checkpoint flag">
+<p align="center">
+  <sub>Tidepools with Bubbo, Root Cellar with Digby, Ember Ridge with Ember, and The Collector's keep</sub>
 </p>
 
 ## Controls
