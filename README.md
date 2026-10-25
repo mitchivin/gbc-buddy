@@ -5,7 +5,7 @@ A Game Boy Color platformer about carrying, throwing and warping to creature bud
 **[Play it in your browser](https://mitchivin.github.io/game-boy-color/)**
 
 <p align="center">
-  <img src="assets/buddy-game-boy-color.webp" width="460" alt="BUDDY running on the Game Boy Color: the title screen, the island map and Buddy Grove">
+  <img src="assets/buddy-game-boy-color.webp" width="820" alt="BUDDY running on the Game Boy Color: the title screen, the island map and Buddy Grove. Beside it, four stages: Tidepools with Bubbo, Root Cellar with Digby, Ember Ridge with Ember, and the fight with The Collector">
 </p>
 
 ## The game
@@ -21,15 +21,6 @@ You play a cat in a hood. You can carry one buddy at a time. Each buddy changes 
 | Bubbo, penguin | A swims up through the flooded grotto |
 
 The campaign runs from an island map through Meadow Path, Windmill Hills, Tidepools, Root Cellar, Ember Ridge and Sky Ruins to a boss fight with The Collector, then the ending and credits. Buddy Grove is a practice stage with all five buddies. Progress saves to cartridge RAM, like a real cartridge.
-
-## Screenshots
-
-<p align="center">
-  <img src="assets/buddy-worlds.png" width="656" alt="Four BUDDY stages: swimming with Bubbo in Tidepools, carrying Digby in Root Cellar, carrying Ember on Ember Ridge, and the fight with The Collector">
-</p>
-<p align="center">
-  <sub>Tidepools with Bubbo, Root Cellar with Digby, Ember Ridge with Ember, and The Collector's keep</sub>
-</p>
 
 ## Controls
 
