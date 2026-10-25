@@ -1,4 +1,4 @@
-# BUDDY
+# BUDDY for Game Boy Color
 
 A Game Boy Color platformer about carrying, throwing and warping to creature buddies.
 
